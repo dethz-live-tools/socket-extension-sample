@@ -1,0 +1,13 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "Expansion API module for sample",
+  "author": "Streamer",
+  "tags": [
+    "custom",
+    "overlay"
+  ],
+  "routePath": "/sample",
+  "wsPrefix": "sample: ",
+  "enabled": true
+}
